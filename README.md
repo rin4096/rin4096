@@ -1,8 +1,8 @@
 # 無限期停工
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rin4096&show_icons=true&theme=transparent&hide_border=true&locale=cn" alt="rin4096 GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin4096&layout=compact&theme=transparent&hide_border=true&locale=cn" alt="rin4096 top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rin4096&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="rin4096 GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin4096&layout=compact&theme=transparent&hide_border=true&locale=en" alt="rin4096 top languages" />
 </p>
 
 <!---
