@@ -6,6 +6,7 @@
   <img height="160" src="./profile/stats.svg" alt="rin4096 GitHub stats" />
   <img height="160" src="./profile/top-langs.svg" alt="rin4096 top languages" />
 </p>
+
 [![Visits Badge](https://shields.io)](https://python.org)
 
 <!---
