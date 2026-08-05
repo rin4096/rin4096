@@ -7,7 +7,6 @@
   <img height="160" src="./profile/top-langs.svg" alt="rin4096 top languages" />
 </p>
 
-[![Visits Badge](https://shields.io)](https://python.org)
 
 <!---
 rin4096/rin4096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
